@@ -1,0 +1,51 @@
+Report for Institution Code DMNH, Resource dmnh_eggs
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 104
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-24 ; Times: 2
+	Date: 2016-07-26 ; Times: 1
+	Date: 2016-07-14 ; Times: 1
+	Date: 2016-07-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "0150c79f-35f3-447f-a40f-24ee9f1fb9d3" ; Times: 1
+	Query: "Pytyopsittacus" ; Times: 2
+	Query: "Rhodospiza obsoleta" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1219 download events in this period)
+Total number of records downloaded: 13
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 3
+	Date: 2016-07-10 ; Times: 1
+	Date: 2016-07-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Casuarius" ; Times: 1
+	Query: "family:muscicapidae institutioncode:DMNH" ; Times: 1
+	Query: "family:Sturnidae institutioncode:DMNH" ; Times: 1
+	Query: "Casuarius" ; Times: 1
+	Query: "motacilla" ; Times: 1
+	Query: "family:turdidae institutioncode:DMNH" ; Times: 1
+
+
+End of report.
