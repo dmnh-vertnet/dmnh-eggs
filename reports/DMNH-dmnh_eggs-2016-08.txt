@@ -1,0 +1,35 @@
+Report for Institution Code DMNH, Resource dmnh_eggs
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 98
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "egg ireland 1896" ; Times: 1
+	Query: "gbifdatasetid:0150c79f-35f3-447f-a40f-24ee9f1fb9d3" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 924 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
