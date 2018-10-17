@@ -1,0 +1,39 @@
+Report for Institution Code DMNH, Resource dmnh_eggs
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 3
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:albiceps genus:psalidoprocne" ; Times: 1
+	Query: "class:Aves locality:ooty basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen class:aves locality:sardinia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1169 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen class:aves locality:sardinia" ; Times: 1
+
+
+End of report.
