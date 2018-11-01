@@ -1,0 +1,38 @@
+Report for Institution Code DMNH, Resource dmnh_eggs
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 8
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:barbatus genus:gypaetus class:Aves" ; Times: 1
+	Query: "gypaetus barbatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1300 download events in this period)
+Total number of records downloaded: 6
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
