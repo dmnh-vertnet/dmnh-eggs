@@ -1,0 +1,46 @@
+Report for Institution Code DMNH, Resource dmnh_eggs
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 13
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 3
+	Date: 2019-04-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gypaetus barbatus" ; Times: 2
+	Query: "Struthio camelus egg" ; Times: 1
+	Query: "Rhea pennata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1263 download events in this period)
+Total number of records downloaded: 7
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 2
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhea pennata" ; Times: 1
+	Query: "family:Tyrannidae institutioncode:DMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:Casuarius" ; Times: 2
+
+
+End of report.
