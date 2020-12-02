@@ -1,0 +1,42 @@
+Report for Institution Code DMNH, Resource dmnh_eggs
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 491
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-02 ; Times: 7
+	Date: 2020-11-18 ; Times: 2
+	Date: 2020-11-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Panurus biarmicus" ; Times: 1
+	Query: "Corvus corone" ; Times: 1
+	Query: "gbifdatasetid:0150c79f-35f3-447f-a40f-24ee9f1fb9d3" ; Times: 2
+	Query: "Acrocephalus scirpaceus" ; Times: 1
+	Query: "Corvus macrorhynchos" ; Times: 1
+	Query: "collectioncode:egg institutioncode:DMNH" ; Times: 3
+	Query: "Turdus cardis" ; Times: 1
+	Query: "Oenanthe isabellina" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 842 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
